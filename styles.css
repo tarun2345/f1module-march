@@ -119,7 +119,7 @@ a{
     background-image: url('./imgs/firstpic.jpeg');
     background-position:center;
     background-repeat: no-repeat;
-    background-size:180%;
+    background-size:210%;
     border-radius: 20px;
     transition: 0.4s cubic-bezier(.4,.4,0,1);
 }
@@ -264,7 +264,7 @@ bottom: 17px;
     background-size: 115%;
 }
 .item1:hover .firimg{
-    background-size:210% ;
+    background-size:250% ;
 }
 .item2:hover .secimg{
     background-size: 120%;
@@ -295,7 +295,7 @@ bottom: 17px;
         gap: 30px;
     }
     .sectopcontainer{
-        height: auto;
+        height: 240px;
     }
     .seccontent{
         gap: 10px;
